@@ -43,9 +43,15 @@ Collection of things that I've learned day to day.
 + [Persist request data when redirecting](laravel/persist_request_data_when_redirecting.md)
 + [pipe method](laravel/pipe_method.md)
 + [redirectTo as method](laravel/redirectTo-as-method.md)
++ [refactoring](laravel/refactoring)
+  + [Domain events](laravel/refactoring/domain_events.md)
+  + [God object cleanup](laravel/refactoring/god_object_cleanup.md)
+  + [Spliting tasks into steps](laravel/refactoring/spliting_tasks_into_steps.md)
+  + [Use cases](laravel/refactoring/use_cases.md)
 + [Save model and its relationships in one go](laravel/save_model_and_its_relationships_in_one_go.md)
 + [Searching multiple columns](laravel/searching-multiple-columns.md)
 + [setRelation won't run a DB query](laravel/setRelation_wont_run_a_db_query.md)
++ [Spliting tasks into steps](laravel/refactoring/spliting_tasks_into_steps.md)
 + [Tap into collection at any point without affecting the original collection](laravel/tap_into_collection_at_any_point.md)
 + [Tap method](laravel/tap_method.md)
 + [Throw an exception based on condition](laravel/throw-an-exception-based-on-condition.md)
@@ -55,6 +61,16 @@ Collection of things that I've learned day to day.
 ### node
 
 ### php
++ [pattrens](php/patterns)
+  + [Decorator pattern](php/patterns/decorator_pattern.md)
+  + [Strategy pattern](php/patterns/strategy_pattern.md)
++ [refactoring](php/refactoring)
+  + [Fluent interfaces](php/refactoring/fluent_interfaces.md)
+  + [Normalizing](php/refactoring/normalizing.md)
+  + [Policies](php/refactoring/policies.md)
+  + [Spliting tasks into steps](php/refactoring/spliting_tasks_into_steps.md)
+  + [Too many arguments in a method](php/refactoring/too_many_arguments_in_method.md)
+  + [Use cases](php/refactoring/use_cases.md)
 
 ### sql
 
