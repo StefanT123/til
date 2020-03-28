@@ -31,6 +31,7 @@ Collection of things that I've learned day to day.
 + [Call "each" as a property instead of a method](laravel/call-each-as-property.md)
 + [Cheatsheet for belongsToMany relationship methods](laravel/cheatsheet_for_belongsToMany_relationship_methods.md)
 + [Compare two models](laravel/compare-two-models.md)
++ [Creating relationships in factories](laravel/creating_relationships_in_factories.md)
 + [Errors variable](laravel/errors_variable.md)
 + [Force HTTPS](laravel/force-https.md)
 + [Handle 419 session token expired error in SPA context](laravel/handle_419_session_token_expired_error_in_SPA_context.md)
@@ -39,6 +40,8 @@ Collection of things that I've learned day to day.
 + [Macros](laravel/macros.md)
 + [Magic methods on eloquent where caluses](laravel/magic_methods_on_eloquent_where_clauses.md)
 + [Mix and match blade directives](laravel/mix-and-match-blade-directives.md)
++ [Optimizations](laravel/optimizations)
+  + [Calling the relationship by method vs calling it by property](laravel/optimizations/calling_relationship_by_method_vs_property.md)
 + [Override the default reset password functionality](laravel/override_the_default_reset_password_func.md)
 + [Persist request data when redirecting](laravel/persist_request_data_when_redirecting.md)
 + [pipe method](laravel/pipe_method.md)
@@ -51,6 +54,7 @@ Collection of things that I've learned day to day.
 + [Save model and its relationships in one go](laravel/save_model_and_its_relationships_in_one_go.md)
 + [Searching multiple columns](laravel/searching-multiple-columns.md)
 + [setRelation won't run a DB query](laravel/setRelation_wont_run_a_db_query.md)
++ [Soft deletes won't work with Query Builder](laravel/soft_deletes_dont_work_with_query_builder.md)
 + [Spliting tasks into steps](laravel/refactoring/spliting_tasks_into_steps.md)
 + [Tap into collection at any point without affecting the original collection](laravel/tap_into_collection_at_any_point.md)
 + [Tap method](laravel/tap_method.md)
@@ -61,6 +65,9 @@ Collection of things that I've learned day to day.
 ### node
 
 ### php
++ [Call trait method with our custom name](php/call_trait_method_with_our_custom_name.md)
++ [Loop through a class](php/loop_through_a_class.md)
++ [Named constructor](php/named_constructor.md)
 + [pattrens](php/patterns)
   + [Decorator pattern](php/patterns/decorator_pattern.md)
   + [Strategy pattern](php/patterns/strategy_pattern.md)
@@ -71,6 +78,7 @@ Collection of things that I've learned day to day.
   + [Spliting tasks into steps](php/refactoring/spliting_tasks_into_steps.md)
   + [Too many arguments in a method](php/refactoring/too_many_arguments_in_method.md)
   + [Use cases](php/refactoring/use_cases.md)
++ [Reflection](php/reflection.md)
 
 ### sql
 
