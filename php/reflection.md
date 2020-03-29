@@ -5,6 +5,10 @@ Reflection is designed to reverse engineer various parts of PHP, including class
   + The PHP manual isn't wholly up to date and you are unable to/don't want to read the source code.
   + You're just curious how something works and would rather not read someone else's PHP source code.
 
+Reflection itself is handled through various classes, the root of which is the Reflection class. There's also ReflectionClass, ReflectionExtension, ReflectionException, ReflectionFunction, ReflectionMethod, ReflectionObject, ReflectionParameter, and ReflectionProperty, for looking at various parts of your script
+
+There are many other functions available in the ReflectionClass class – check out the online PHP manual for more information
+
 The @@ lines tell us where individual items were actually defined in the source code, which is great for jumping straight to something that interests you
 ```php
 class MyParent {

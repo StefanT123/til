@@ -65,8 +65,16 @@ Collection of things that I've learned day to day.
 ### node
 
 ### php
++ [Array functions](php/array_functions.md)
++ [Building HTTP query](php/building_http_query.md)
++ [Calculate the similarity between two strings](php/calculate_the_similarity_between_two_strings.md)
 + [Call trait method with our custom name](php/call_trait_method_with_our_custom_name.md)
++ [Check the execution time of a script](php/check_the_execution_time_of_a_script.md)
++ [Creating temporary file](php/creating_temporary_file.md)
++ [CURL](php/curl.md)
++ [Execute a function after the script ends](php/execute_a_function_after_the_script_ends.md)
 + [Loop through a class](php/loop_through_a_class.md)
++ [Make class act as array](php/make_class_act_as_array.md)
 + [Named constructor](php/named_constructor.md)
 + [pattrens](php/patterns)
   + [Decorator pattern](php/patterns/decorator_pattern.md)
@@ -79,6 +87,24 @@ Collection of things that I've learned day to day.
   + [Too many arguments in a method](php/refactoring/too_many_arguments_in_method.md)
   + [Use cases](php/refactoring/use_cases.md)
 + [Reflection](php/reflection.md)
++ [Run a script even if the client has disconnected](php/run_a_script_even_if_the_client_has_disconnected.md)
++ [Spaceship operator](php/spaceship_operator.md)
++ [Variable validation with ctype functions](php/variable_validation_with_ctype_functions.md)
++ [Variadic function](php/variadic_function.md)
++ [Working with images](php/working_with_images)
+  + [Blur effect](php/working_with_images/blur_effect.md)
+  + [Color reduction](php/working_with_images/color_reduction.md)
+  + [Create an image](php/working_with_images/create_an_image.md)
+  + [Duotone image](php/working_with_images/duotone_image.md)
+  + [Fitting a text in a box](php/working_with_images/fitting_a_text_in_a_box.md)
+  + [Grayscale image](php/working_with_images/grayscale_image.md)
+  + [Images functions](php/working_with_images/images_functions.md)
+  + [Interlacing image](php/working_with_images/interlacing_image.md)
+  + [Noise effect](php/working_with_images/noise_effect.md)
+  + [Pixelate effect](php/working_with_images/pixelate_effect.md)
+  + [Scatter effect](php/working_with_images/scatter_effect.md)
+  + [Screen effect](php/working_with_images/screen_effect.md)
+  + [Writing text in an image](php/working_with_images/writing_text_in_an_image.md)
 
 ### sql
 
