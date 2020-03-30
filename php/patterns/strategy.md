@@ -33,61 +33,46 @@ We can use unique strategy how you can accomplish particular goal
 3. Ensure that each of those strategies adheres to a common contract/interface
 4. Determine the proper strategy, and let it handle the task
 ```php
-class SubscriptionsController implements RegisterUserInterface
+interface Logger
 {
-    public function handle()
+    public function log($data);
+}
+
+class LogToFile implements Logger
+{
+    public function log()
     {
-        $this->getRegistrationStrategy($request)->handle();
-    }
-
-    protected function getRegistrationStrategy(Request $request)
-    {
-        if ($request->plan == 'forever') {
-            return new RegistersLifetimeMember;
-        }
-
-        if ($request->invitation) {
-            return new RegistersTeamMember;
-        }
-
-        return new RegistersSubscriber;
+        var_dump('log to file');
     }
 }
 
-class RegistersForumUser implements RegisterUserInterface
+class LogToDatabase implements Logger
 {
-    public function handle()
+    public function log()
     {
-
+        var_dump('log to db');
     }
 }
 
-class RegistersSubscriber implements RegisterUserInterface
+class LogToXWebService implements Logger
 {
-    public function handle()
+    public function log()
     {
-
+        var_dump('log to a Saas site');
     }
 }
 
-class RegistersTeamMember implements RegisterUserInterface
+class App
 {
-    public function handle()
+    public function log($data, Logger $logger = null)
     {
+        // set a default
+        $logger = $logger ?: new LogToFile;
 
+        $logger->log($data);
     }
 }
 
-class RegistersLifetimeMember implements RegisterUserInterface
-{
-    public function handle()
-    {
-
-    }
-}
-
-interface RegisterUserInterface
-{
-    public function handle();
-}
+$app = new App();
+$app->log('Some info here', new LogToXWebService);
 ```

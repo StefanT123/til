@@ -19,10 +19,15 @@ Collection of things that I've learned day to day.
 ---
 
 ### devops
++ [Attach running container to a network](devops/attach_running_container_to_a_network.md)
++ [Get contianers IP inside a specific network](devops/get_containers_IP_inside_a_specific_network.md)
++ [List all containers belonging to a network](devops/list_all_containers_belonging_to_a_network.md)
++ [List all networks a container belongs to](devops/list_all_networks_a_container_belongs_to.md)
 
 ### git
 
 ### js
++ [Make simple router](js/make_simple_router.md)
 
 ### laravel
 + [Avoid "no such column" error when dropping multiple columns in sqlite](laravel/avoid-no-such-column-errors-when-dropping-multiple-columns-in-sqlite.md)
@@ -74,11 +79,22 @@ Collection of things that I've learned day to day.
 + [CURL](php/curl.md)
 + [Execute a function after the script ends](php/execute_a_function_after_the_script_ends.md)
 + [Loop through a class](php/loop_through_a_class.md)
++ [Magic methods](php/magic_methods)
+  + [Call and callStatic](php/magic_methods/call_and_callStatic.md)
+  + [Clone](php/magic_methods/clone.md)
+  + [Destruct](php/magic_methods/destruct.md)
+  + [Get](php/magic_methods/get.md)
+  + [Set](php/magic_methods/set.md)
+  + [Sleep and wakeup](php/magic_methods/sleep_and_wakeup.md)
+  + [toString](php/magic_methods/toString.md)
 + [Make class act as array](php/make_class_act_as_array.md)
 + [Named constructor](php/named_constructor.md)
 + [pattrens](php/patterns)
-  + [Decorator pattern](php/patterns/decorator_pattern.md)
-  + [Strategy pattern](php/patterns/strategy_pattern.md)
+  + [Adapter](php/patterns/adapter.md)
+  + [Decorator](php/patterns/decorator.md)
+  + [Observer](php/patterns/observer.md)
+  + [Strategy](php/patterns/strategy.md)
+  + [Template method](php/patterns/template_method.md)
 + [refactoring](php/refactoring)
   + [Fluent interfaces](php/refactoring/fluent_interfaces.md)
   + [Normalizing](php/refactoring/normalizing.md)
