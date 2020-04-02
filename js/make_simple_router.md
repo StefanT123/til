@@ -1,6 +1,6 @@
 # Make simple router
 
-```javascript
+```js
 function select_tab(id) {
     // remove selected class from all buttons
     document.querySelectorAll(".route").forEach(item => item.classList.remove('selected'));
