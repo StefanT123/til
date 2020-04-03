@@ -103,7 +103,27 @@ Collection of things that I've learned day to day.
 + [Wildcard subdomains](laravel/wildcard_subdomains.md)
 
 ### linux
++ [Better manual](linux/better_manual.md)
++ [Brace expansion](linux/brace_expansion.md)
++ [Catch errors](linux/catch_errors.md)
++ [Dispaly network-related information such as open connections, open socket ports, etc](linux/display_network_related_info.md)
++ [Display the process tree](linux/display_the_process_tree.md)
++ [Editing long commands in editor](linux/editing_long_cmds_in_editor.md)
++ [Find and kill processes by name](linux/find_and_kill_processes_by_name.md)
++ [List open files and corresponding processes](linux/list_open_files_and_processes.md)
 + [Recursive create folders](linux/recursive_create_folders.md)
++ [Redirect standard output and standard error](linux/redirect_stdout_and_stderr.md)
++ [Run background process forever](linux/run_background_process_forever.md)
++ [Run commands on multiple CPU cores](linux/run_cmds_on_multiple_CPU_cores.md)
++ [Search through command history](linux/search_through_cmd_history.md)
++ [See and use recent commands](linux/see_and_use_recent_cmds.md)
++ [Show how long system has been running](linux/show_how_long_system_has_been_running.md)
++ [String manipulation on the command line](linux/string_manipulation_on_the_cmd_line.md)
++ [Style bash script text](linux/style_bash_script_text.md)
++ [Subshells](linux/subshells.md)
++ [Switching the shell to another user](linux/switching_the_shell_to_another_user.md)
++ [Treat output of a command like a file](linux/treat_output_of_a_cmd_like_a_file.md)
++ [Variable expansion](linux/variable_expansion.md)
 
 ### node
 

@@ -1,3 +1,5 @@
 # Recursive create folders
 
-`mkdir -p parent_folder/folder`
+```bash
+mkdir -p parent_folder/folder
+```
