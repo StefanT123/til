@@ -104,6 +104,7 @@ Collection of things that I've learned day to day.
 
 ### linux
 + [Recursive create folders](linux/recursive_create_folders.md)
+
 ### node
 
 ### php
@@ -159,6 +160,7 @@ Collection of things that I've learned day to day.
 + [Loop through a class](php/loop_through_a_class.md)
 + [Make class act as array](php/make_class_act_as_array.md)
 + [Named constructor](php/named_constructor.md)
++ [PDO](php/PDO.md)
 + [Reflection](php/reflection.md)
 + [Run a script even if the client has disconnected](php/run_a_script_even_if_the_client_has_disconnected.md)
 + [Spaceship operator](php/spaceship_operator.md)
@@ -166,6 +168,28 @@ Collection of things that I've learned day to day.
 + [Variadic function](php/variadic_function.md)
 
 ### sql
++ [Add index](sql/add_index.md)
++ [Alter table](sql/alter_table.md)
++ [Analyse table for optimal types](sql/analyse_table_for_optimal_types.md)
++ [Clone some table](sql/clone_some_table.md)
++ [Create table](sql/create_table.md)
++ [Creating a database](sql/creating_a_database.md)
++ [Delete database](sql/delete_database.md)
++ [Delete table](sql/delete_table.md)
++ [Don't allow any update or where statements wihout a where](sql/dont_allow_update_or_delete_without_where.md)
++ [Fulltext indexes](sql/fulltext_indexes.md)
++ [Insert into table](sql/insert_into_table.md)
++ [Joins](sql/joins.md)
++ [Pattern matching (searching)](sql/pattern_matching.md)
++ [Print info for all tables](sql/print_info_for_all_tables.md)
++ [Selecting data](sql/selecting_data.md)
++ [Set table type](sql/set_table_type.md)
++ [Setting priorities](sql/setting_priorities.md)
++ [Show fields in the table](sql/show_fields_in_the_table.md)
++ [SQL functions](sql/sql_functions.md)
++ [Update data](sql/update_data.md)
++ [Using aliases](sql/using_aliases.md)
++ [WHERE clauses with AND and OR](sql/where_clauses_with_and_and_or.md)
 
 ### vim
 
