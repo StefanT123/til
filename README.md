@@ -55,6 +55,7 @@ Collection of things that I've learned day to day.
 + [Remove volumes](devops/remove_volumes.md)
 
 ### git
++ [Push to multiple git repos](git/push_to_multiple_repos.md)
 
 ### js
 + [append_elements_to_DOM_without_reflow](js/append_elements_to_DOM_without_reflow.md)
@@ -124,6 +125,7 @@ Collection of things that I've learned day to day.
 + [Split values in two groups](js/split_values_in_two_groups.md)
 + [Swap variables](js/swap_variables.md)
 + [Throttle](js/throttle.md)
++ [Use `map` instead `object` as Hash Map](js/use_map_instead_objects_as_hash_maps.md)
 
 ### laravel
 + [Optimizations](laravel/optimizations)
