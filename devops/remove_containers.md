@@ -1,4 +1,4 @@
-# Remove contianers
+# Remove containers
 
 `docker container rm {container-id} {container-id2}`
 

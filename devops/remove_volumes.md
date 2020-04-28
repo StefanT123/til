@@ -1,4 +1,4 @@
-# Remove volums
+# Remove volumes
 
 `docker volume rm {volume-id}`
 
