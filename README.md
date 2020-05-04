@@ -12,6 +12,7 @@ Collection of things that I've learned day to day.
 + [laravel](#laravel)
 + [linux](#linux)
 + [node](#node)
++ [npm](#npm)
 + [php](#php)
 + [sql](#sql)
 + [vim](#vim)
@@ -98,6 +99,7 @@ Collection of things that I've learned day to day.
 + [Check if two numbers are approximately equal](js/check_if_two_numbers_are_approximately_equal.md)
 + [Check number of times function is executed in ine second](js/check_number_of_times_function_is_executed_in_one_sec.md)
 + [Clone array of objects](js/clone_array_of_objects.md)
++ [Comma operator](js/comma_operator.md)
 + [`console.log()` that auto-indents based on the depth of the call stack](js/console_log_that_auto_indents_based_on_the_depth_of_callstack.md)
 + [Convert `nodeList` to `array`](js/convert_nodeList_to_array.md)
 + [Convert RGB to HEX](js/convert_RGB_to_HEX.md)
@@ -152,8 +154,10 @@ Collection of things that I've learned day to day.
 + [Split number to digits](js/split_number_to_digits.md)
 + [Split values in two groups](js/split_values_in_two_groups.md)
 + [Swap variables](js/swap_variables.md)
++ [Tagged template literals](js/tagged_template_literals.md)
 + [Throttle](js/throttle.md)
 + [Use `map` instead `object` as Hash Map](js/use_map_instead_objects_as_hash_maps.md)
++ [With statement](js/with_statement.md)
 
 ### laravel
 + [Optimizations](laravel/optimizations)
@@ -209,6 +213,7 @@ Collection of things that I've learned day to day.
 + [Cat a file with line numbers](linux/cat_a_file_with_line_numbers.md)
 + [Catch errors](linux/catch_errors.md)
 + [Check ubuntu version](linux/check_ubuntu_version.md)
++ [Compare local and remote files](linux/compare_local_and_remote_files.md)
 + [Configure you server timezone](linux/configure_your_server_timezone.md)
 + [Copy file from SSH](linux/copy_file_from_ssh.md)
 + [Dispaly network-related information such as open connections, open socket ports, etc](linux/display_network_related_info.md)
@@ -235,6 +240,9 @@ Collection of things that I've learned day to day.
 + [Variable expansion](linux/variable_expansion.md)
 
 ### node
+
+### npm
++ [Use variables from `.env` when calling a script](npm/use_variables_from_env_when_calling_a_script.md)
 
 ### php
 + [Magic methods](php/magic_methods)
