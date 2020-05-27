@@ -45,7 +45,7 @@ Collection of things that I've learned day to day.
 + [Container filtering](devops/container_filtering.md)
 + [Get a list of all containers](devops/get_a_list_of_all_containers.md)
 + [Get container IP address](devops/get_container_ip_address.md)
-+ [Get contianers IP inside a specific network](devops/get_containers_IP_inside_a_specific_network.md)
++ [Get containers IP inside a specific network](devops/get_containers_IP_inside_a_specific_network.md)
 + [Inspect container](devops/inspect_container.md)
 + [List all containers belonging to a network](devops/list_all_containers_belonging_to_a_network.md)
 + [List all networks a container belongs to](devops/list_all_networks_a_container_belongs_to.md)
