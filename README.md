@@ -42,6 +42,7 @@ Collection of things that I've learned day to day.
 ### devops
 + [Attach running container to a network](devops/attach_running_container_to_a_network.md)
 + [Build from scratch](devops/build_from_scratch.md)
++ [Connect to a local network from inside a container](devops/connect_to_local_host_from_inside_a_container.md)
 + [Container filtering](devops/container_filtering.md)
 + [Get a list of all containers](devops/get_a_list_of_all_containers.md)
 + [Get container IP address](devops/get_container_ip_address.md)
