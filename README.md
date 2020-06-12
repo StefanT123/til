@@ -300,6 +300,8 @@ Collection of things that I've learned day to day.
 + [Flatten an array](php/flatten_an_array.md)
 + [Loop through a class](php/loop_through_a_class.md)
 + [Make class act as array](php/make_class_act_as_array.md)
++ [Merge arrays](php/merge_arrays.md)
++ [Merge multidimensional arrays](php/merge_multidimensional_arrays.md)
 + [Named constructor](php/named_constructor.md)
 + [PDO](php/PDO.md)
 + [Reflection](php/reflection.md)
