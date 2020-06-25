@@ -8,6 +8,7 @@ Collection of things that I've learned day to day.
 + [Algorithms and Data Structures](#algorithms_and_data_structures)
 + [devops](#devops)
 + [git](#git)
++ [html](#html)
 + [js](#js)
 + [laravel](#laravel)
 + [linux](#linux)
@@ -82,10 +83,14 @@ Collection of things that I've learned day to day.
 + [Untrack a file without deleting it locallt](git/untrack_file_without_deleting_it_locally.md)
 + [Viewing file on another branch](git/viewing_file_on_another_branch.md)
 
+### html
++ [Submit A Form With A Button Outside The Form](html/submit_a_form_with_a_button_outside_the_form.md)
+
 ### js
 + [append_elements_to_DOM_without_reflow](js/append_elements_to_DOM_without_reflow.md)
 + [Array to CSV](js/array_to_CSV.md)
 + [`async/await` not working with `forEach()`](js/async_await_not_workking_with_foreach.md)
++ [Basic Date Formatting Without A Library](js/basic_date_formatting_without_a_library.md)
 + [Bind `forEach` on `NodeList`](js/bind_forEach_on_NodeList.md)
 + [Bitwise division by 2 floored (right shift)](js/bitwise_division_by_2_floored.md)
 + [Bitwise left shift](js/bitwise_left_shift.md)
