@@ -3,6 +3,8 @@
 ```sql
 AUTO_INCREMENT # it instructs MySQL to insert a unique ID number for you
 PRIMARY KEY # instructs MySQL to ruthlessly enforce ID as a unique number
+GROUP BY # it is used in collaboration with the SELECT statement to arrange identical data into groups
+HAVING # it enables you to specify conditions that filter which group results appear in the results, the WHERE clause places conditions on the selected columns, whereas the HAVING clause places conditions on groups created by the GROUP BY clause
 ORDER BY # makes it easy to order your data
 RAND() # returns your rows in a random order
     ORDER BY RAND() LIMIT 1 # to pick out one random row from your database
