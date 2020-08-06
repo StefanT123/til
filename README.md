@@ -306,6 +306,7 @@ Collection of things that I've learned day to day.
 + [Check the execution time of a script](php/check_the_execution_time_of_a_script.md)
 + [Creating temporary file](php/creating_temporary_file.md)
 + [CURL](php/curl.md)
++ [Difference between two dates in days](php/difference_between_two_dates_in_days.md)
 + [Execute a function after the script ends](php/execute_a_function_after_the_script_ends.md)
 + [Flatten an array](php/flatten_an_array.md)
 + [Loop through a class](php/loop_through_a_class.md)
