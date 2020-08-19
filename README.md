@@ -229,6 +229,7 @@ Collection of things that I've learned day to day.
 + [Editing long commands in editor](linux/editing_long_cmds_in_editor.md)
 + [Embed a comment within a chain of commands](linux/embed_a_comment_within_a_chain_of_commands.md)
 + [Find and kill processes by name](linux/find_and_kill_processes_by_name.md)
++ [Find the command thats using some port](linux/find_the_command_thats_using_some_port.md)
 + [Forward Multiple Ports Over SSH](linux/forward_multiple_ports_over_SSH.md)
 + [Kill Everything Running On A Certain Port](linux/kill_everything_running_on_certain_port.md)
 + [Killing a frozen SSH session](linux/killing_frozen_SSH_session.md)
