@@ -33,6 +33,7 @@ Collection of things that I've learned day to day.
 + [Fibonacci](algorithms_and_data_structures/fibonacci.md)
 + [Fibonacci math](algorithms_and_data_structures/fibonacci_math.md)
 + [Find greatest common divisor](algorithms_and_data_structures/find_greatest_common_divisor.md)
++ [Kadane's algorithm](algorithms_and_data_structures/kadane.md)
 + [Memoization and tabulation](algorithms_and_data_structures/memoization_and_tabulation.md)
 + [Queues](algorithms_and_data_structures/queues.md)
 + [Quicksort with Hoare's partitioning scheme](algorithms_and_data_structures/quicksort_hoares.md)
