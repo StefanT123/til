@@ -26,6 +26,7 @@ Collection of things that I've learned day to day.
 + [Breadth first search](algorithms_and_data_structures/BFS.md)
 + [Binary search](algorithms_and_data_structures/binary_search.md)
 + [Binary search tree](algorithms_and_data_structures/binary_search_tree.md)
++ [Binary tree level order traversal](algorithms_and_data_structures/binary_tree_level_order_traversal.md)
 + [Check if number is prime](algorithms_and_data_structures/check_if_number_is_prime.md)
 + [Check if string is palindrom](algorithms_and_data_structures/check_if_string_is_palindrom.md)
 + [Climbing stairs](algorithms_and_data_structures/climbing_stairs.md)
