@@ -30,6 +30,7 @@ Collection of things that I've learned day to day.
 + [Check if number is prime](algorithms_and_data_structures/check_if_number_is_prime.md)
 + [Check if string is palindrom](algorithms_and_data_structures/check_if_string_is_palindrom.md)
 + [Climbing stairs](algorithms_and_data_structures/climbing_stairs.md)
++ [Convert sorted array to Balanced Search Tree (BST)](algorithms_and_data_structures/convert_sorted_array_to_BST.md)
 + [Count and say](algorithms_and_data_structures/count_and_say.md)
 + [Decimal to binary](algorithms_and_data_structures/decimal_to_binary.md)
 + [Djikstra](algorithms_and_data_structures/djikstra.md)
