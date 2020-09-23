@@ -109,6 +109,9 @@ Collection of things that I've learned day to day.
 + [Viewing file on another branch](git/viewing_file_on_another_branch.md)
 
 ### html
++ [contenteditable attribute](html/contenteditable_attribute.md)
++ [Details tag](html/details_tag.md)
++ [Output tag](html/output_tag.md)
 + [Submit A Form With A Button Outside The Form](html/submit_a_form_with_a_button_outside_the_form.md)
 
 ### js
