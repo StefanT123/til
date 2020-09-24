@@ -44,6 +44,7 @@ Collection of things that I've learned day to day.
 + [Is binary tree balanced](algorithms_and_data_structures/is_binary_tree_balanced.md)
 + [Is the tree symmetrical](algorithms_and_data_structures/is_the_tree_symmetric.md)
 + [Kadane's algorithm (maximum subarray)](algorithms_and_data_structures/kadane.md)
++ [Knight's dialer](algorithms_and_data_structures/knights_dialer.md)
 + [Length of last word](algorithms_and_data_structures/length_of_last_word.md)
 + [Longest common prefix](algorithms_and_data_structures/longest_common_prefix.md)
 + [Memoization and tabulation](algorithms_and_data_structures/memoization_and_tabulation.md)
