@@ -52,6 +52,7 @@ Collection of things that I've learned day to day.
 + [Merge two sorted lists](algorithms_and_data_structures/merge_two_sorted_lists.md)
 + [Minimum depth of binary tree](algorithms_and_data_structures/minimum_depth_of_binary_tree.md)
 + [Palindrome number](algorithms_and_data_structures/palindrome_number.md)
++ [Pascal's triangle](algorithms_and_data_structures/pascals_triangle.md)
 + [Path sum in binary tree](algorithms_and_data_structures/path_sum_in_binary_tree.md)
 + [Plus one](algorithms_and_data_structures/plus_one.md)
 + [Queues](algorithms_and_data_structures/queues.md)
