@@ -23,6 +23,7 @@ Collection of things that I've learned day to day.
 
 ### algorithms_and_data_structures
 + [Are the two trees the same](algorithms_and_data_structures/are_two_trees_the_same.md)
++ [Best time to buy and sell stock](algorithms_and_data_structures/best_time_to_buy_and_sell_stock.md)
 + [Breadth first search](algorithms_and_data_structures/BFS.md)
 + [Binary search](algorithms_and_data_structures/binary_search.md)
 + [Binary search tree](algorithms_and_data_structures/binary_search_tree.md)
