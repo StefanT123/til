@@ -66,6 +66,7 @@ Collection of things that I've learned day to day.
 + [Remove element from array](algorithms_and_data_structures/remove_element_from_array.md)
 + [Reverse integer](algorithms_and_data_structures/reverse_integer.md)
 + [Roman to integer](algorithms_and_data_structures/roman_to_integer.md)
++ [Single number](algorithms_and_data_structures/single_number.md)
 + [Stacks](algorithms_and_data_structures/stacks.md)
 + [Sum of binary numbers](algorithms_and_data_structures/sum_of_binary_numbers.md)
 + [Valid parentheses](algorithms_and_data_structures/valid_parentheses.md)
