@@ -43,6 +43,7 @@ Collection of things that I've learned day to day.
 + [FInd max depth of binary tree](algorithms_and_data_structures/find_max_depth_of_binary_tree.md)
 + [Indicies of two numbers that add up together (Two sum)](algorithms_and_data_structures/indicies_of_two_numbers_that_add_up_together.md)
 + [Is binary tree balanced](algorithms_and_data_structures/is_binary_tree_balanced.md)
++ [Is linked list cycilc (Floyd's cycle finding algorithm)](algorithms_and_data_structures/is_linked_list_cyclic.md)
 + [Is the tree symmetrical](algorithms_and_data_structures/is_the_tree_symmetric.md)
 + [Kadane's algorithm (maximum subarray)](algorithms_and_data_structures/kadane.md)
 + [Knight's dialer](algorithms_and_data_structures/knights_dialer.md)
