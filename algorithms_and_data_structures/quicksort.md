@@ -4,27 +4,25 @@
 $toBeSorted = [-2, -6, 8, 2, 54, 1, 3, 9, -54, 3];
 
 function quicksort($array) {
-  $length = count($array);
+    $length = count($array);
 
-  if (count($array) < 2) {
-    return $array;
-  }
-
-  $pivot = $array[$length - 1];
-  $arrRight = [];
-  $arrLeft = [];
-  $start = 0;
-
-  while($start < $length - 1) {
-    if ($array[$start] < $pivot) {
-      array_push($arrLeft, $array[$start]);
-    } else {
-      array_push($arrRight, $array[$start]);
+    if (count($array) < 2) {
+        return $array;
     }
-    $start++;
-  }
 
-  return array_merge(quicksort($arrLeft), [$pivot], quicksort($arrRight));
+    $pivot = $array[$length - 1];
+    $arrRight = [];
+    $arrLeft = [];
+
+    for ($i = 0; $i < $length - 1; $i++) {
+        if ($array[$i] < $pivot) {
+            array_push($arrLeft, $array[$i]);
+        } else {
+            array_push($arrRight, $array[$i]);
+        }
+    }
+
+    return array_merge(quicksort($arrLeft), [$pivot], quicksort($arrRight));
 }
 
 print_r(quicksort($toBeSorted));
