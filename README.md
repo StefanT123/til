@@ -48,6 +48,7 @@ Collection of things that I've learned day to day.
 + [Kadane's algorithm (maximum subarray)](algorithms_and_data_structures/kadane.md)
 + [Knight's dialer](algorithms_and_data_structures/knights_dialer.md)
 + [Length of last word](algorithms_and_data_structures/length_of_last_word.md)
++ [Linked list](algorithms_and_data_structures/linked_list.md)
 + [Longest common prefix](algorithms_and_data_structures/longest_common_prefix.md)
 + [Memoization and tabulation](algorithms_and_data_structures/memoization_and_tabulation.md)
 + [Merge sorted array](algorithms_and_data_structures/merge_sorted_array.md)

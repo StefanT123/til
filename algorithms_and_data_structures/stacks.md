@@ -33,44 +33,71 @@ class Stack {
 
 ---
 
-Linked list
-```js
-class Node {
-  constructor(next, value) {
-    this.next = next
-    this.value = value
-  }
-}
+Stack in O(1) (constant) time and space complexity
+```php
+class MinStack {
+    protected $stack;
+    protected $min;
 
-class Stack {
-  constructor() {
-    this.stack = null
-  }
-
-  push(element) {
-    let head = this.stack
-    let newNode = new Node(null, element)
-
-    if (!head) {
-      this.stack = newNode
-    } else {
-      newNode.next = head
-      this.stack = newNode
+    /**
+     * initialize your data structure here.
+     */
+    function __construct() {
+        $this->stack = [];
     }
-  }
 
-  pop() {
-    let head = this.stack
+    /**
+     * @param Integer $x
+     * @return NULL
+     */
+    function push($x) {
+        if (count($this->stack) < 1) {
+            $this->min = $x;
+            $this->stack[] = $x;
 
-    if (!head) return 'Stack is empty!'
+            return;
+        }
 
-    this.stack = head.next
-    return head.value
-  }
+        if ($x < $this->min) {
+            $this->stack[] = 2 * $x - $this->min;
+            $this->min = $x;
 
-  peek() {
-    if(!this.stack) return 'Stack is empty!'
-    return this.stack.value
-  }
+            return;
+        }
+
+        $this->stack[] = $x;
+    }
+
+    /**
+     * @return NULL
+     */
+    function pop() {
+        $val = end($this->stack);
+        unset($this->stack[key($this->stack)]);
+
+        if ($val < $this->min) {
+            $this->min = 2 * $this->min - $val;
+        }
+    }
+
+    /**
+     * @return Integer
+     */
+    function top() {
+        $top = end($this->stack);
+
+        if ($top < $this->min) {
+            return $this->min;
+        }
+
+        return $top;
+    }
+
+    /**
+     * @return Integer
+     */
+    function getMin() {
+        return $this->min;
+    }
 }
 ```
