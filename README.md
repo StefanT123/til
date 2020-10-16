@@ -359,6 +359,8 @@ Collection of things that I've learned day to day.
 + [Difference between two dates in days](php/difference_between_two_dates_in_days.md)
 + [Execute a function after the script ends](php/execute_a_function_after_the_script_ends.md)
 + [Flatten an array](php/flatten_an_array.md)
++ [goto keyword](php/goto_keyword.md)
++ [Grouped namespaces](php/grouped_namespaces.md)
 + [Loop through a class](php/loop_through_a_class.md)
 + [Make class act as array](php/make_class_act_as_array.md)
 + [Merge arrays](php/merge_arrays.md)
@@ -368,6 +370,8 @@ Collection of things that I've learned day to day.
 + [Reflection](php/reflection.md)
 + [Run a script even if the client has disconnected](php/run_a_script_even_if_the_client_has_disconnected.md)
 + [Spaceship operator](php/spaceship_operator.md)
++ [Static variables inside the body of a function](php/static_varaibles_inside_a_function.md)
++ [The `+` operator for merging arrays](php/the_+_operator_for_merging_arrays.md)
 + [Variable validation with ctype functions](php/variable_validation_with_ctype_functions.md)
 + [Variadic function](php/variadic_function.md)
 
