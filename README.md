@@ -227,6 +227,7 @@ Collection of things that I've learned day to day.
 + [Factory callbacks](laravel/factory_callbacks.md)
 + [Fallback when no other route is matched](laravel/fallback_when_no_other_route_is_matched.md)
 + [Force HTTPS](laravel/force-https.md)
++ [Get only needed fields from relationship](laravel/get_only_needed_fields_from_relationship.md)
 + [Group Route::resource() into one statement](laravel/group_Route::resource_into_one_statement.md)
 + [Handle 419 session token expired error in SPA context](laravel/handle_419_session_token_expired_error_in_SPA_context.md)
 + [Hook trait into the construct() method of a model from a trait](laravel/hook_trait_into_the_construct_method_of_a_model.md)
