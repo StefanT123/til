@@ -349,6 +349,7 @@ Collection of things that I've learned day to day.
   + [Scatter effect](php/working_with_images/scatter_effect.md)
   + [Screen effect](php/working_with_images/screen_effect.md)
   + [Writing text in an image](php/working_with_images/writing_text_in_an_image.md)
++ [Access private and protected methods](php/access_private_and_protected_methods.md)
 + [Array functions](php/array_functions.md)
 + [Building HTTP query](php/building_http_query.md)
 + [Calculate the similarity between two strings](php/calculate_the_similarity_between_two_strings.md)
