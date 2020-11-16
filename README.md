@@ -104,6 +104,7 @@ Collection of things that I've learned day to day.
 + [Git add files interactively](git/git_add_files_interactively.md)
 + [Ignore changes to a tracked file](git/ignore_changes_to_a_tracked_file.md)
 + [Last commit a file appeared in](git/last_commit_a_file_appeared_in.md)
++ [Make backup of untracked files](git/make_backup_of_untracked_files.md)
 + [Move the latest commit to a new branch](git/move_the_latest_commit_to_new_branch.md)
 + [Open all files with conflicts at once](git/open_all_files_with_conflicts_at_once.md)
 + [Overwrite local with remote](git/overwrite_local_with_remote.md)
