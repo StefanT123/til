@@ -6,7 +6,7 @@ $toBeSorted = [-2, -6, 8, 2, 54, 1, 3, 9, -54, 3];
 function quicksort($array) {
     $length = count($array);
 
-    if (count($array) < 2) {
+    if ($length < 2) {
         return $array;
     }
 
@@ -70,7 +70,8 @@ var quickSort = function(array, p, r) {
         quickSort(array, p, pivot - 1);
     }
 };
-
+```
+```js
 // Another way of doing it
 function quickSort(arr, length = arr.length - 1, start = 0) {
 
@@ -89,4 +90,21 @@ function quickSort(arr, length = arr.length - 1, start = 0) {
 }
 console.log(quickSort([4, 9, 2, 6, 8, 10, 3, 1, 7, 5]))
 // [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+```js
+// Another way of doing it
+const quickSort = (originalList) => {
+  const list = [...originalList]
+
+  if (list.length < 2) {
+    return list
+  }
+
+  const pivot = list[0]
+
+  const smaller = list.filter((item) => item < pivot)
+  const bigger = list.filter((item) => item > pivot)
+
+  return [...quickSort(smaller), pivot, ...quickSort(bigger)]
+}
 ```
