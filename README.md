@@ -51,6 +51,7 @@ Collection of things that I've learned day to day.
 + [Length of last word](algorithms_and_data_structures/length_of_last_word.md)
 + [Linked list](algorithms_and_data_structures/linked_list.md)
 + [Longest common prefix](algorithms_and_data_structures/longest_common_prefix.md)
++ [Majority element (Boyer-Moore Voting Algorithm)](algorithms_and_data_structures/majority_element.md)
 + [Memoization and tabulation](algorithms_and_data_structures/memoization_and_tabulation.md)
 + [Merge sort](algorithms_and_data_structures/merge_sort.md)
 + [Merge sorted array](algorithms_and_data_structures/merge_sorted_array.md)
