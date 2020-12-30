@@ -36,6 +36,7 @@ Collection of things that I've learned day to day.
 + [Decimal to binary](algorithms_and_data_structures/decimal_to_binary.md)
 + [Djikstra](algorithms_and_data_structures/djikstra.md)
 + [Excel sheet column title](algorithms_and_data_structures/excel_sheet_solumn_title.md)
++ [Excel sheet column number](algorithms_and_data_structures/excel_sheet_solumn_number.md)
 + [Factorial](algorithms_and_data_structures/factorial.md)
 + [Fibonacci](algorithms_and_data_structures/fibonacci.md)
 + [Fibonacci math](algorithms_and_data_structures/fibonacci_math.md)
