@@ -120,6 +120,7 @@ Collection of things that I've learned day to day.
 + [Restoring deleted files](git/restoring_deleted_files.md)
 + [Revert added files interactively](git/revert_added_files_interactively.md)
 + [Revert to some commit](git/revert_to_some_commit.md)
++ [Search for some string in commits](git/search_for_string_in_commits.md)
 + [Stash untracked files](git/stash_untracked_files.md)
 + [Untrack a file without deleting it locallt](git/untrack_file_without_deleting_it_locally.md)
 + [Viewing file on another branch](git/viewing_file_on_another_branch.md)
