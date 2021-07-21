@@ -113,6 +113,7 @@ Collection of things that I've learned day to day.
 + [Move the latest commit to a new branch](git/move_the_latest_commit_to_new_branch.md)
 + [Open all files with conflicts at once](git/open_all_files_with_conflicts_at_once.md)
 + [Overwrite local with remote](git/overwrite_local_with_remote.md)
++ [Push only specific commit to branch](git/push_only_specific_commit_to_branch.md)
 + [Push to multiple git repos](git/push_to_multiple_repos.md)
 + [Remove file from git without removing it locally](git/remove_file_from_git_without_removing_it_locally.md)
 + [Remove a file from last commit](git/remove_file_from_last_commit.md)
