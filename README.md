@@ -402,6 +402,7 @@ Collection of things that I've learned day to day.
 + [Import DB](sql/import_DB.md)
 + [Insert into table](sql/insert_into_table.md)
 + [Joins](sql/joins.md)
++ [Move table from one database to another in the same cluster](sql/move_table_from_one_database_to_another.md)
 + [MySql index](sql/mysql_index.md)
 + [Pattern matching (searching)](sql/pattern_matching.md)
 + [Print info for all tables](sql/print_info_for_all_tables.md)
