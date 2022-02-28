@@ -65,6 +65,7 @@ Collection of things that I've learned day to day.
 + [Plus one](algorithms_and_data_structures/plus_one.md)
 + [Queues](algorithms_and_data_structures/queues.md)
 + [Quicksort with Hoare's partitioning scheme](algorithms_and_data_structures/quicksort_hoares.md)
++ [Quicksort for associative array](algorithms_and_data_structures/quicksort_for_associative_array.md)
 + [Quicksort](algorithms_and_data_structures/quicksort.md)
 + [Radixsort](algorithms_and_data_structures/radixsort.md)
 + [Remove duplicates from sorted array](algorithms_and_data_structures/remove_duplicates_from_sorted_array.md)
