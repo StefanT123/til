@@ -376,6 +376,7 @@ Collection of things that I've learned day to day.
 + [Grouped namespaces](php/grouped_namespaces.md)
 + [Loop through a class](php/loop_through_a_class.md)
 + [Make class act as array](php/make_class_act_as_array.md)
++ [Memory usage in MB](php/memory_usage_in_MB.md)
 + [Merge arrays](php/merge_arrays.md)
 + [Merge multidimensional arrays](php/merge_multidimensional_arrays.md)
 + [Named constructor](php/named_constructor.md)
