@@ -384,7 +384,7 @@ Collection of things that I've learned day to day.
 + [Reflection](php/reflection.md)
 + [Run a script even if the client has disconnected](php/run_a_script_even_if_the_client_has_disconnected.md)
 + [Spaceship operator](php/spaceship_operator.md)
-+ [Static variables inside the body of a function](php/static_varaibles_inside_a_function.md)
++ [Static variables inside the body of a function](php/static_variables_inside_a_function.md)
 + [The `+` operator for merging arrays](php/the_+_operator_for_merging_arrays.md)
 + [Variable validation with ctype functions](php/variable_validation_with_ctype_functions.md)
 + [Variadic function](php/variadic_function.md)
