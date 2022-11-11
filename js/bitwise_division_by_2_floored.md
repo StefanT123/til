@@ -4,7 +4,7 @@ This operator shifts the first operand the specified number of bits to the right
 
 ```js
 9 >> 1 // outputs 4 (when the second number is 1, it means Math.floor(9 / 2))
-5 << 1 = 2
-6 << 1 = 3
-7 << 1 = 3
+5 >> 1 = 2
+6 >> 1 = 3
+7 >> 1 = 3
 ```
