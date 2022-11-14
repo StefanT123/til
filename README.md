@@ -167,6 +167,7 @@ Collection of things that I've learned day to day.
 + [Distance between two points](js/distance_between_two_points.md)
 + [Find difference between two arrays](js/find_difference_between_two_arrays.md)
 + [Dynamic imports](js/dynamic_imports.md)
++ [Emulate `async/await` with generator](js/emulate_async_await_with_generator.md)
 + [Execute function with a delay without hanging the entire script](js/execute_function_with_a_delay_without_hanging_the_entire_script.md)
 + [Find the length of string in bytes](js/find_the_length_of_string_in_bytes.md)
 + [Flatten an array](js/flatten_an_array.md)
