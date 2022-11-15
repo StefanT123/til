@@ -134,7 +134,7 @@ Collection of things that I've learned day to day.
 + [Submit A Form With A Button Outside The Form](html/submit_a_form_with_a_button_outside_the_form.md)
 
 ### js
-+ [append_elements_to_DOM_without_reflow](js/append_elements_to_DOM_without_reflow.md)
++ [Append elements to DOM without reflow](js/append_elements_to_DOM_without_reflow.md)
 + [Array to CSV](js/array_to_CSV.md)
 + [`async/await` not working with `forEach()`](js/async_await_not_workking_with_foreach.md)
 + [Basic Date Formatting Without A Library](js/basic_date_formatting_without_a_library.md)

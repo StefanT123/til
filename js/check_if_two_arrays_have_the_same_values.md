@@ -1,9 +1,9 @@
-# Check if two arrays have the same vallues (unordered and for primitive values)
+# Check if two arrays have the same values
 
+This is only valid if the arrays contain primitive values.
 ```js
-const a = [1, 2, 3];
-const b = [2, 3, 4];
-
-const uniques = new Set(a.concat(b));
-const haveSameValues = uniques.length === a.length // or uniques.length === b.length;
+const checkIfArraysHaveSameValues = (array1, array2) => {
+  const uniques = [...new Set(array1.concat(array2))];
+  return uniques.length === array1.length // or uniques.length === array2.length;
+}
 ```
