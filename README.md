@@ -148,7 +148,7 @@ Collection of things that I've learned day to day.
 + [Check if bottom of a page is visible](js/check_if_bottom_of_page_is_visible.md)
 + [Check if element has class](js/check_if_element_has_class.md)
 + [Check if element is visible in viewport](js/check_if_element_is_visible_in_viewport.md)
-+ [Check if year is leap year](js/check_if_year_is_leap_year.md)
++ [Check if year is leap year](js/check_if_is_leap_year.md)
 + [Check if two arrays have the same vallues (unordered and for primitive values)](js/check_if_two_arrays_have_the_same_values.md)
 + [Check if two numbers are approximately equal](js/check_if_two_numbers_are_approximately_equal.md)
 + [Check number of times function is executed in ine second](js/check_number_of_times_function_is_executed_in_one_sec.md)
