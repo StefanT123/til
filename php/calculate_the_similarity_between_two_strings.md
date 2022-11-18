@@ -19,4 +19,9 @@ $match = similar_text($word1, $word2, $percent);
 $percent = round($percent, 2);
 echo "$match letters are the same between '$word1' and '$word2': a $percent% match.\n";
 
+// string similarity calculated using levenshtein
+static function similarity($a, $b)
+{
+return 1 - (levenshtein(strtoupper($a), strtoupper($b)) / max(strlen($a), strlen($b)));
+}
 ```
