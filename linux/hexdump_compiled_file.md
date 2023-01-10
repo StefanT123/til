@@ -1,7 +1,5 @@
 # Hexdump compiled file
 
-The hexdump command allows you to dump the contents of a compiled/executable file in a readable hexadecimal format. Adding the -C flag includes a sidebar with a formatted version of that row of hexadecimal.
-
 The hexdump command can output the contents of a compiled/executable file in a readable hexadecimal format. The key is adding the -C flag. When added it will include a sidebar with a formatted version of that row of hexadecimal.
 
 For example, if we have this Example java class:
@@ -45,7 +43,7 @@ cafe babe 0000 0037 001d 0a00 0600 0f09
 
 If we want to get the compiled contents into somewhat readable format, we are using hexdump:
 ```bash
-cat Example.class | hexdump -C
+hexdump -C Example.class
 
 00000000  ca fe ba be 00 00 00 37  00 1d 0a 00 06 00 0f 09  |.......7........|
 00000010  00 10 00 11 08 00 12 0a  00 13 00 14 07 00 15 07  |................|
