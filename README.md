@@ -301,6 +301,7 @@ Collection of things that I've learned day to day.
 + [Run a command without putting it in history](linux/run_a_command_without_putting_it_in_history.md)
 + [Run background process forever](linux/run_background_process_forever.md)
 + [Run commands on multiple CPU cores](linux/run_cmds_on_multiple_CPU_cores.md)
++ [Screen command](linux/screen_command.md)
 + [Search through command history](linux/search_through_cmd_history.md)
 + [Searching for a file](linux/searching_for_a_file.md)
 + [See and use recent commands](linux/see_and_use_recent_cmds.md)
