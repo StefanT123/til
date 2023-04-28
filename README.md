@@ -368,6 +368,7 @@ Collection of things that I've learned day to day.
 + [Building HTTP query](php/building_http_query.md)
 + [Calculate the similarity between two strings](php/calculate_the_similarity_between_two_strings.md)
 + [Call trait method with our custom name](php/call_trait_method_with_our_custom_name.md)
++ [Check from where some method has been called](php/check_from_where_some_method_has_been_called.md)
 + [Check the execution time of a script](php/check_the_execution_time_of_a_script.md)
 + [Creating temporary file](php/creating_temporary_file.md)
 + [CURL](php/curl.md)
