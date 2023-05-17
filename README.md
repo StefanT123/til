@@ -397,6 +397,7 @@ Collection of things that I've learned day to day.
 + [Add index](sql/add_index.md)
 + [Alter table](sql/alter_table.md)
 + [Analyse table for optimal types](sql/analyse_table_for_optimal_types.md)
++ [Check the fragmentation for a table](sql/check_fragmentation_for_table.md)
 + [Clone some table](sql/clone_some_table.md)
 + [Create table](sql/create_table.md)
 + [Creating a database](sql/creating_a_database.md)
