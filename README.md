@@ -307,6 +307,7 @@ Collection of things that I've learned day to day.
 + [See and use recent commands](linux/see_and_use_recent_cmds.md)
 + [Setting up nginx reverse proxy](linux/setting_up_nginx_reverse_proxy.md)
 + [Show how long system has been running](linux/show_how_long_system_has_been_running.md)
++ [SSH](linux/SSH.md)
 + [String manipulation on the command line](linux/string_manipulation_on_the_cmd_line.md)
 + [Style bash script text](linux/style_bash_script_text.md)
 + [Subshells](linux/subshells.md)
